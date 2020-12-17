@@ -1,5 +1,5 @@
-"My Name is Raman Revti Sharma.", 
-          "I love doing data analytics.", 
+"My Name is Rama Shyama.", 
+          "Python is awsome and machine learning is great.", 
           "The tata nexon car is very stylish, dynamic and has a strong build. But their after sales service is not good.",
           "The pizza in the party was tasty and cheesy.",
-          "The dominoz tacco is always cripy and fingerlicious."
+          "The dominoz tacco was as always cripy and fingerlicious."
